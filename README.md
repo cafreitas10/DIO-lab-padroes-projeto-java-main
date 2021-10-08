@@ -2,7 +2,7 @@
 
 Repositório com as implementações dos padrões de projeto explorados no Lab "Explorando Padrões de Projetos na Prática com Java" na plataforma da Digital Innovation One.
 
-Como incremento, eu, Axell, adicionei o padrão Builder.
+Como incremento, eu adicionei o padrão Builder.
 
 ## Singleton
 
